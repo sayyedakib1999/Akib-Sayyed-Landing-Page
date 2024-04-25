@@ -22,17 +22,45 @@
         height: 100%;
 }
 #left{
-    width: 100%;
+    width: 50%;
     height: 100%;
 }
 #who {
     color: #e6a216;
+    margin-top: 50px;
     margin-left: 5%;
-    margin-top: 5%;
-    font-size: 30px;
-    font-family: Poppins, sans-serif;";
-    
-    
+    font-size: 50px;
+    font-family: Poppins, sans-serif;"
+
+}
+#left #points{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 5%;
+    padding: 10px;
+    font-size: 20px;
+    font-family: Poppins, sans-serif;"
+}
+#points>li{
+    padding: 10px;
+    font-size: 25px;
+    font-family: Poppins, sans-serif;"
+}
+#points>li>b{
+    color: #e6a216;
+}
+#links{
+    width: 50%;
+    height: 10%;
+    margin-left: 5%;
+    padding: 20px;
+}
+#links>a{
+    color: white;
+    background-color: #e6a216;
+    text-decoration: none;
+    font-family: Poppins, "sans-serif";
+    padding: 50px;
 }
 #right{
     width: 100%;
