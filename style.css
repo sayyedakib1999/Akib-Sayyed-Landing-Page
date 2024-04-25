@@ -70,9 +70,14 @@
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-
-.fa-brands{
-    color: #ffffff;
+#footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+.fa-brands>a{
+    margin: 10px;
 }
 
 .fa-brands:hover{
