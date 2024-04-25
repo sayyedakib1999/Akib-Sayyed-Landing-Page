@@ -75,15 +75,28 @@
     justify-content: center;
     align-items: center;
     margin-top: 100px;
+
 }
-.fa-brands>a{
-    margin: 10px;
+#footer a{
+    color: #fff;
+}
+.fa-brands {
+    margin: 0px 20px;
+}
+.fa-brands a>i{
+    width: 10px;
 }
 
 .fa-brands:hover{
     color: #e6a216;
 }
 #right{
-    width: 100%;
+    width: 50%;
     height: 100%;
+}
+#right img{
+    margin-left: 105%;
+    margin-top: -500px;
+    width: 68%;
+    height: 80%;
 }
