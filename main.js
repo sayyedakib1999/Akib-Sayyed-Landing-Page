@@ -24,8 +24,8 @@ function animateCircles() {
   let y = coords.y;
   
   circles.forEach(function (circle, index) {
-    circle.style.left = x - 4 + "px";
-    circle.style.top = y - 4 + "px";
+    circle.style.left = x - 2 + "px";
+    circle.style.top = y - 2 + "px";
     
     circle.style.scale = (circles.length - index) / circles.length;
     

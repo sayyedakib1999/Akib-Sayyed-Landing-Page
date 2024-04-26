@@ -85,6 +85,12 @@
 .fa-brands:hover{
     color: #e6a216;
 }
+.fa-solid{
+     margin: 0px 20px;
+}
+.fa-solid:hover{
+    color: red;
+}
 #right{
     width: 50%;
     height: 100%;
