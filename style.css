@@ -66,13 +66,15 @@
     border-radius: 25px;
 }
 #footer{
+    border-top: 1px solid #e6a216;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 70px;
+    margin-top: 50px;
 
 }
 #footer a{
+    margin-top: 15px;
     color: #fff;
 }
 .fa-brands {
